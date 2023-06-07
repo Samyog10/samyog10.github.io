@@ -1,3 +1,2 @@
-<h1>Hello I am Niraj Bhatta. This is my Portfolio Website. Reference From @Jack.</h1?
-
-![ssofhome](https://user-images.githubusercontent.com/79129703/213086907-1c960ef1-3fdf-4582-919e-3fbfa6c19d9b.png)
+<h1>Hello I am Samyog Paudel. This is my Portfolio Website. Reference From @nirajbhatta24.</h1?
+![Screenshot 2023-06-07 214531](https://github.com/Samyog10/samyogpaudel.github.io/assets/135822403/8d613936-d17f-440b-a6ac-86d7b7a6eddb)
